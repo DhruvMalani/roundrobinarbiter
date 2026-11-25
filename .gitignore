@@ -1,0 +1,15 @@
+# VCS / simulator outputs
+simv
+simv.daidir/
+csrc/
+ucli.key
+vc_hdrs.h
+*.log
+*.vpd
+*.vcd
+*.fsdb
+DVEfiles/
+AN.DB/
+verdiLog/
+novas*
+*.key
